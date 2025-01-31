@@ -54,5 +54,12 @@ Seeking to transition into a SOC Analyst role within the cybersecurity field. Le
 <img src="https://img.shields.io/badge/-CCNP-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
+## Capture the Flag (CTF Competition)
+
+| Oraganizer/Host                                         | Link         |
+|-----------------------------------------------|----------------------------|
+| GuideM - HackTheKingdom          | <a href="https://www.linkedin.com/posts/ivan-noriel-laquindanum-88ab1a118_im-thrilled-to-share-that-i-secured-3rd-activity-7230891050846801920-Q1wC?utm_source=share&utm_medium=member_desktop">3rd Place in EHVAPT by Guidem CTF</a>|
+
+
 ## Projects
 - IDS/IPS Detection Lab
