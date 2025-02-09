@@ -16,7 +16,8 @@ Seeking to transition into a SOC Analyst role within the cybersecurity field. Le
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | IDS/IPS Detection Lab          | <a href="https://ivanlaqui.blogspot.com/2025/01/installing-suricata-idsips-and.html">IDS/IPS Detection Lab</a>|
-| SIEM Log Analysis (Boss of the SOC)         | <a href="https://ivanlaqui.blogspot.com/2025/01/boss-of-soc-v1-2015-website-defacement.html">Web site Defacement</a>|
+| SIEM SPLUNK Log Analysis (Boss of the SOC)         | <a href="https://ivanlaqui.blogspot.com/2025/01/boss-of-soc-v1-2015-website-defacement.html">Web site Defacement</a>|
+| SIEM SPLUNK Intrusion Analysis and Investigation (The DFIR Report)   | <a href="https://www.linkedin.com/in/ivan-noriel-laquindanum-88ab1a118/details/certifications/">The DFIR Report Lab</a>|
 
 
 ## Tools
@@ -52,6 +53,7 @@ Seeking to transition into a SOC Analyst role within the cybersecurity field. Le
 <img src="https://img.shields.io/badge/-Certificate_of_Completion_Practical_Bug_Bounty_by_TCM_Security-00BFFF?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNP-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/DFIR_Case_19208_Certificate-000000?style=for-the-badge" />
 </div>
 
 ## Capture the Flag (CTF Competition)
