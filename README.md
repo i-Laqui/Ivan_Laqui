@@ -42,6 +42,7 @@ Seeking to transition into a SOC Analyst role within the cybersecurity field. Le
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elasticsearch-005571?&style=for-the-badge&logo=Elasticsearch&logoColor=white" />
     
 </div>
 
