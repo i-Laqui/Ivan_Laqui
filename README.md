@@ -19,6 +19,7 @@ Seeking to transition into a SOC Analyst role within the cybersecurity field. Le
 | SIEM SPLUNK Log Analysis (Boss of the SOC)         | <a href="https://ivanlaqui.blogspot.com/2025/01/boss-of-soc-v1-2015-website-defacement.html">Web site Defacement</a>|
 | SIEM SPLUNK Intrusion Analysis and Investigation (The DFIR Report)   | <a href="https://www.linkedin.com/in/ivan-noriel-laquindanum-88ab1a118/details/certifications/">The DFIR Report Lab</a>|
 | SIEM ELASTICSEARCH     | <a href="https://ivanlaqui.blogspot.com/">ELASTICSEARCH SIEM INTEGRATION</a>|
+| THREAT HUNTING    | <a href="https://ivanlaqui.blogspot.com/2025/03/my-first-real-world-threat-hunting.html">My First Real World Threat Hunting</a>|
 
 
 ## Tools
