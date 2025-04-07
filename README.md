@@ -68,3 +68,4 @@ Seeking to transition into a SOC Analyst role within the cybersecurity field. Le
 
 ## Projects
 - IDS/IPS Detection Lab
+- <a href="https://blueteamlabs.online/public/user/ed698ab296ffc47d761ca4">Blueteamlabs</a>
