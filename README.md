@@ -64,6 +64,7 @@ Seeking to transition into a SOC Analyst role within the cybersecurity field. Le
 | Oraganizer/Host                                         | Link         |
 |-----------------------------------------------|----------------------------|
 | GuideM - HackTheKingdom          | <a href="https://www.linkedin.com/posts/ivan-noriel-laquindanum-88ab1a118_im-thrilled-to-share-that-i-secured-3rd-activity-7230891050846801920-Q1wC?utm_source=share&utm_medium=member_desktop">3rd Place in EHVAPT by Guidem CTF</a>|
+| GuideM - HuntTheKingdom          | <a href="https://www.linkedin.com/feed/update/urn:li:activity:7329422827537817600/">2nd Place in Threat Hunting by GuideM CTF </a>|
 
 
 ## Projects
