@@ -3,7 +3,7 @@
 
 
 
-With over 8 years of experience as a Network Engineer, I have a strong foundation in both operations and engineering, specializing in designing and implementation of network infrastructure.
+Network Security Engineer | 8+ Years in Network Operations, Design & Implementation | Now Focused on Security Engineering
 
 ## Objective
 
@@ -15,6 +15,7 @@ Seeking to transition into a SOC Analyst role within the cybersecurity field. Le
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| 
 | IDS/IPS Detection Lab          | <a href="https://ivanlaqui.blogspot.com/2025/01/installing-suricata-idsips-and.html">IDS/IPS Detection Lab</a>|
 | SIEM SPLUNK Log Analysis (Boss of the SOC)         | <a href="https://ivanlaqui.blogspot.com/2025/01/boss-of-soc-v1-2015-website-defacement.html">Web site Defacement</a>|
 | SIEM SPLUNK Intrusion Analysis and Investigation (The DFIR Report)   | <a href="https://www.linkedin.com/in/ivan-noriel-laquindanum-88ab1a118/details/certifications/">The DFIR Report Lab</a>|
